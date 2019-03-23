@@ -1,2 +1,5 @@
 # Python-Keylogger
-A simple Keylogger created with Python
+
+# How to install
+First, install python (with pip)
+Open a command prompt and type "pip install pynput"
