@@ -1,5 +1,3 @@
-# Python-Keylogger
-
 # How to install
 
 # First
