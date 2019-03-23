@@ -1,5 +1,8 @@
 # Python-Keylogger
 
 # How to install
-# First, install python (with pip)
-# Open a command prompt and type "pip install pynput"
+
+# First
+ Install python (with pip)
+# Two
+ Open a command prompt and type "pip install pynput"
